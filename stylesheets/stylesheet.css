@@ -1,0 +1,47 @@
+.header-main {
+  background-color: #222;
+  color: white;
+  height: 6rem;
+  display: inline-block;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+.name {
+  width: 40%;
+  float: left;
+  line-height: 6rem;
+  font-size: 1.6rem;
+  margin-left: 1rem;
+}
+
+.main-nav ul {
+  list-style: none;
+  float: right;
+}
+
+.main-nav ul li {
+  display: inline;
+  line-height: 6rem;
+  margin-right: 1.5rem;
+}
+
+.main {
+  background-color: #eee;
+}
+
+.description {
+  display: inline-block;
+  margin: 1rem 0rem 0rem 2rem;
+  padding-top: 1rem;
+  vertical-align: top;
+  font-family: sans-serif;
+  width: 50%;
+}
+
+.portfolio-piece {
+  width: 20%;
+  height: 10rem;
+}
+
+
